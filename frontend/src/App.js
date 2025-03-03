@@ -15,6 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <h1 className="text-3xl font-bold text-blue-500">Hello, Tailwind CSS!</h1>
+
           Learn React
         </a>
       </header>
